@@ -1,0 +1,13 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Module 'AndroidStudioProjects.JavaOOP.mylib.main'" />
+    <option name="defaultScopeName" value="Module 'AndroidStudioProjects.JavaOOP.mylib.main'" />
+    <option name="SEARCH_SCOPE" value="Module 'AndroidStudioProjects.JavaOOP.mylib.main'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+  </component>
+</application>
