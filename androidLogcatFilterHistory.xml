@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine TuanNV63_LOG" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine TuanNV63_LOG" />
         <option value="package:mine " />
         <option value="package:mine DEBUG_TuanNV63" />
         <option value="package:mine TuanNV63" />
