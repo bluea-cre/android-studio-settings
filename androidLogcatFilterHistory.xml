@@ -1,15 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MainActivity | ToastFragment | AFragment" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine MainActivity | ToastFragment | AFragment" />
-        <option value="package:mine onCreate" />
-        <option value="package:mine TuanNV63_LOG" />
-        <option value="package:mine DEBUG_TuanNV63" />
-        <option value="package:mine TuanNV63" />
-        <option value="package:mine tuannv63" />
       </list>
     </option>
   </component>
