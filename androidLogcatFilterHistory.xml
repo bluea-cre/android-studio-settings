@@ -3,9 +3,9 @@
     <option name="mostRecentlyUsed" value="tag:MainActivity | tag:AFragment | tag:BFragment | tag:ToastFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="tag:MainActivity | tag:AFragment | tag:BFragment | tag:ToastFragment" />
         <option value="tag:SecondActivity | tag:MainActivity " />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
