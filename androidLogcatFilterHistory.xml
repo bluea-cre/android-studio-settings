@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:MainActivity | tag:AFragment | tag:BFragment" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:MainActivity | tag:AFragment | tag:BFragment | tag:ToastFragment" />
+        <option value="tag:MainActivity | tag:AFragment | tag:BFragment" />
         <option value="package:mine " />
+        <option value="tag:MainActivity | tag:AFragment | tag:BFragment | tag:ToastFragment" />
         <option value="tag:SecondActivity | tag:MainActivity " />
       </list>
     </option>
