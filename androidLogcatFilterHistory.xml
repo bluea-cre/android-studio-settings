@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="tag:MainActivity | tag:TimeService" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:MainActivity | tag:TimeService" />
         <option value="package:mine  " />
+        <option value="tag:MainActivity | tag:TimeService" />
         <option value="tag:MainActivity | tag:StartedService | tag:BoundService" />
         <option value="tag:MainActivity | tag:StartedService" />
         <option value="package:mine " />
