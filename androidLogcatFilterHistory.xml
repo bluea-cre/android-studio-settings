@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="tag:MainActivity | tag:MyContentProvider | tag:MyContentProviderHelper | tag:AFragment | tag:BFragment | tag:ContentProviderObserver" />
         <option value="tag:MainActivity | tag:MyContentProvider | tag:MyContentProviderHelper | tag:AFragment | tag:BFragment | tag:ContentProviderObserver | tag:" />
         <option value="tag:MainActivity | tag:MyContentProvider | tag:MyContentProviderHelper | tag:AFragment | tag:BFragment | tag:" />
