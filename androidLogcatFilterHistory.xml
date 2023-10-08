@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MainActivity | tag:MyContentProvider | tag:MyContentProviderHelper | tag:AFragment | tag:BFragment" />
+    <option name="mostRecentlyUsed" value="tag:MainActivity | tag:MyContentProvider | tag:MyContentProviderHelper | tag:AFragment | tag:BFragment | tag:ContentProviderObserver" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MainActivity | tag:MyContentProvider | tag:MyContentProviderHelper | tag:AFragment | tag:BFragment | tag:ContentProviderObserver" />
+        <option value="tag:MainActivity | tag:MyContentProvider | tag:MyContentProviderHelper | tag:AFragment | tag:BFragment | tag:ContentProviderObserver | tag:" />
+        <option value="tag:MainActivity | tag:MyContentProvider | tag:MyContentProviderHelper | tag:AFragment | tag:BFragment | tag:" />
         <option value="tag:MainActivity | tag:MyContentProvider | tag:MyContentProviderHelper | tag:AFragment | tag:BFragment" />
         <option value="tag:MainActivity | tag:MyContentProvider | tag:MyContentProviderHelper | tag:AFragment | tag:" />
         <option value="tag:MainActivity | tag:MyContentProvider | tag:MyContentProviderHelper | tag:" />
