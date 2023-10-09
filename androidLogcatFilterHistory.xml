@@ -1,12 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Fruit | tag:FruitAdapter | tag:FruitContentProvider | tag:FruitContentProviderHelper | tag:FruitContentProviderObserver | tag:FruitContentProviderRepository | tag:DetailFruitFragment | tag:ListFruitViewModel | tag:ListFruitViewModel | tag:MainActivity | tag:SampleAppApplication " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="tag:Fruit | tag:FruitAdapter | tag:FruitContentProvider | tag:FruitContentProviderHelper | tag:FruitContentProviderObserver | tag:FruitContentProviderRepository | tag:DetailFruitFragment | tag:ListFruitViewModel | tag:ListFruitViewModel | tag:MainActivity | tag:SampleAppApplication " />
-        <option value="tag:Fruit | tag:FruitAdapter | tag:FruitContentProvider | tag:FruitContentProviderHelper | tag:FruitContentProviderObserver | tag:FruitContentProviderRepository | tag:DetailFruitFragment | tag:ListFruitViewModel | tag:ListFruitViewModel | tag:ListFruitViewModel | tag:SampleAppApplication " />
-        <option value="tag:Fruit | tag:FruitAdapter | tag:FruitContentProvider | tag:FruitContentProviderHelper | tag:FruitContentProviderObserver | tag:FruitContentProviderRepository | tag:DetailFruitFragment | tag:ListFruitViewModel | tag:ListFruitViewModel | tag:ListFruitViewModel | tag: " />
-        <option value="tag:Fruit | tag:FruitAdapter | tag:FruitContentProvider | tag:FruitContentProviderHelper | tag:FruitContentProviderObserver | tag:FruitContentProviderRepository | tag:DetailFruitFragment | tag:ListFruitViewModel | tag:ListFruitViewModel | tag: " />
         <option value="tag:Fruit | tag:FruitAdapter | tag:FruitContentProvider | tag:FruitContentProviderHelper | tag:FruitContentProviderObserver | tag:FruitContentProviderRepository | tag:DetailFruitFragment | tag:ListFruitViewModel | " />
         <option value="tag:Fruit | tag:FruitAdapter | tag:FruitContentProvider | tag:FruitContentProviderHelper | tag:FruitContentProviderObserver | tag:FruitContentProviderRepository | tag:DetailFruitFragment | " />
         <option value="tag:Fruit | tag:FruitAdapter | tag:FruitContentProvider | tag:FruitContentProviderHelper | tag:FruitContentProviderObserver | tag:FruitContentProviderRepository | " />
@@ -17,7 +14,6 @@
         <option value="tag:Fruit | tag:FruitAdapter | " />
         <option value="tag:Fruit | tag:" />
         <option value="tag:" />
-        <option value="package:mine " />
         <option value="tag:MainActivity | tag:MyContentProvider | tag:MyContentProviderHelper | tag:AFragment | tag:BFragment | tag:ContentProviderObserver" />
         <option value="tag:MainActivity | tag:MyContentProvider | tag:MyContentProviderHelper | tag:AFragment | tag:BFragment | tag:ContentProviderObserver | tag:" />
         <option value="tag:MainActivity | tag:MyContentProvider | tag:MyContentProviderHelper | tag:AFragment | tag:BFragment | tag:" />
