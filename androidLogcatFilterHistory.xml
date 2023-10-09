@@ -1,5 +1,6 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:Fruit | tag:FruitAdapter | tag:FruitContentProvider | tag:FruitContentProviderHelper | tag:FruitContentProviderObserver | tag:FruitContentProviderRepository | tag:DetailFruitFragment | tag:ListFruitViewModel | tag:ListFruitViewModel | tag:MainActivity | tag:SampleAppApplication " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
